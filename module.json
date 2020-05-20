@@ -1,0 +1,17 @@
+{
+  "name": "encounter-builder",
+  "title": "PF2e Encounter Builder",
+  "description": "A Pathfinder 2e version of the 5e Encounter Builder by RaySSharma.",
+  "version": "0.1.0",
+  "minimumCoreVersion": "0.5.0",
+  "author": "Woodshape",
+  "scripts": ["./src/encounter-builder.js", "./src/builder-form.js"],
+  "styles": ["./css/encounter-builder.css"],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ]
+}
